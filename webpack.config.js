@@ -12,7 +12,7 @@ const filePath = {
     style: './assets/scss/style.scss',
     icons: './assets/icons/icons.js',
   },
-  dist: '/public/',
+  dist: './public/',
 };
 
 function createJSModule() {
